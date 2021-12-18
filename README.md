@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mailtosona
-- 👀 I’m interested in .Net development technologies.
-- 🌱 I’m currently learning Azure, .Net technologies.
+- 👀 I’m a Java Developer 
+- 🌱 I’m currently learning Java Technologies
 - 💞️ I’m looking to collaborate on new Cloud Devops technologies. 
 - 📫 How to reach me email.
 
